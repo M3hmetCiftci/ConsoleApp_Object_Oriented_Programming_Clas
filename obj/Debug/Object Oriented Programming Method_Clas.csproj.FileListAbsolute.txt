@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Object Orident Programming Method_Clas\Object Orident Programming Method_Clas\bin\Debug\Object Orident Programming Method_Clas.exe.config
+C:\Users\asus\source\repos\Object Orident Programming Method_Clas\Object Orident Programming Method_Clas\bin\Debug\Object Orident Programming Method_Clas.exe
+C:\Users\asus\source\repos\Object Orident Programming Method_Clas\Object Orident Programming Method_Clas\bin\Debug\Object Orident Programming Method_Clas.pdb
+C:\Users\asus\source\repos\Object Orident Programming Method_Clas\Object Orident Programming Method_Clas\obj\Debug\Object Oriented Programming Method_Clas.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Object Orident Programming Method_Clas\Object Orident Programming Method_Clas\obj\Debug\Object Oriented Programming Method_Clas.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Object Orident Programming Method_Clas\Object Orident Programming Method_Clas\obj\Debug\Object Orident Programming Method_Clas.exe
+C:\Users\asus\source\repos\Object Orident Programming Method_Clas\Object Orident Programming Method_Clas\obj\Debug\Object Orident Programming Method_Clas.pdb
